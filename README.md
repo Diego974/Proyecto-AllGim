@@ -1,7 +1,10 @@
-# ProyectoElena
+# ProyectoALLGIM
 Diego Gálvez-García Gil
+
 Iván García González
+
 Alejandro Martín Domingo
+
 Adrián Iglesias Serrano
 
 -Nombre de la base de datos: allgim
